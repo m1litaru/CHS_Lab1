@@ -1,0 +1,10 @@
+
+\usepackage[utf8x]{inputenc}
+ 
+\usepackage{bookman}
+\usepackage{graphicx}
+
+
+ 
+\usepackage{bookman}
+\usepackage{graphicx}
