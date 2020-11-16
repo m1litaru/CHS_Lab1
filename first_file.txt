@@ -4,10 +4,11 @@
 \usepackage{bookman}
 \usepackage{graphicx}
 
+New line added
 Second person
  
 \usepackage{bookman}
 \usepackage{graphicx}
 
 
-That's a conflict!
+New line added
